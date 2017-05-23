@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>false</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>a1744ed3-f360-42e7-9f9a-3327022678ba</Identity>
+    <Start>2016-10-15T16:21:20.2773770+02:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=13.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>13.0.3450.1</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2016 (RTM) - 13.0.1601.5 (X64) 
+	Apr 29 2016 23:23:58 
+	Copyright (c) Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Pro 6.3 &lt;X64&gt; (Build 14393: ) (Hypervisor)
+</ServerVersion>
+    <ObjectCounts>
+      <CheckConstraint>4</CheckConstraint>
+      <ComputedColumn>55</ComputedColumn>
+      <DatabaseOptions>1</DatabaseOptions>
+      <DefaultConstraint>8</DefaultConstraint>
+      <ForeignKeyConstraint>16</ForeignKeyConstraint>
+      <Index>9</Index>
+      <PermissionStatement>97</PermissionStatement>
+      <PrimaryKeyConstraint>17</PrimaryKeyConstraint>
+      <Procedure>55</Procedure>
+      <Role>13</Role>
+      <RoleMembership>8</RoleMembership>
+      <Schema>13</Schema>
+      <SimpleColumn>111</SimpleColumn>
+      <SubroutineParameter>221</SubroutineParameter>
+      <Table>17</Table>
+      <UniqueConstraint>2</UniqueConstraint>
+      <View>9</View>
+    </ObjectCounts>
+  </Server>
+  <Checksums>
+    <Checksum Uri="/model.xml">E8BA18DAE4DB273E44AF85EC9E24F99ECC174038E01BEE4195D2373855BE19B4</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.5</ModelSchemaVersion>
+</DacOrigin>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="7sean68" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\HUSSIEN_WEB\\study\\Task1\\Task1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\HUSSIEN_WEB\\study\\Task1\\Task1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="7sean68/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\HUSSIEN_WEB\\study\\Task1\\Task1\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="ConnectionString-Web.config Connection String" description="" value="Data Source=7sean68.database.windows.net;Initial Catalog=hospital;User ID=hussienasem;Password=Programmer7268" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\HUSSIEN_WEB\\study\\Task1\\Task1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
